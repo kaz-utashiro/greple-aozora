@@ -1,7 +1,7 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "Greple module for aozora-bunko proofreading",
    "author" : [
-      "Kaz Utashiro <kaz@utashiro.com>"
+      "Kazumasa Utashiro"
    ],
    "dynamic_config" : 0,
    "generated_by" : "Minilla/v3.1.5, CPAN::Meta::Converter version 2.143240",
@@ -42,7 +42,8 @@
       },
       "runtime" : {
          "requires" : {
-            "perl" : "5.008001"
+            "App::Greple" : "8",
+            "perl" : "5.014"
          }
       },
       "test" : {
@@ -52,7 +53,21 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/kaz-utashiro/greple-aozora/issues"
+      },
+      "homepage" : "https://github.com/kaz-utashiro/greple-aozora",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/kaz-utashiro/greple-aozora.git",
+         "web" : "https://github.com/kaz-utashiro/greple-aozora"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:UTASHIRO",
+   "x_contributors" : [
+      "Kaz Utashiro <kaz@utashiro.com>"
+   ],
    "x_static_install" : 1
 }
