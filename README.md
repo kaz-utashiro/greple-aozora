@@ -173,6 +173,8 @@ OCR入力では、平仮名の「へぺべ」と片仮名の「ヘペベ」が�
 
 [http://www.aozora.gr.jp/KOSAKU/MANUAL\_4.html](http://www.aozora.gr.jp/KOSAKU/MANUAL_4.html)
 
+[https://qiita.com/kaz-utashiro/items/2f199409bdb1e08dc473](https://qiita.com/kaz-utashiro/items/2f199409bdb1e08dc473)
+
 # AUTHOR
 
 Kazumasa Utashiro

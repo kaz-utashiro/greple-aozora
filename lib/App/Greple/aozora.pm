@@ -188,6 +188,8 @@ OCRの読み取りミスや誤入力が生じやすい文字をチェックす�
 
 L<http://www.aozora.gr.jp/KOSAKU/MANUAL_4.html>
 
+L<https://qiita.com/kaz-utashiro/items/2f199409bdb1e08dc473>
+
 =head1 AUTHOR
 
 Kazumasa Utashiro
